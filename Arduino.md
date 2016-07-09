@@ -64,5 +64,5 @@
 
 * 쉴드(Shield) - 특정 기능을 갖는 보드로, 아두이노와 결합하여 호환 가능한 여러 부가 모듈과 연결하는 커넥터 구조를 포함한 부품.
 (Ref: [아두이노@위키피디아](https://ko.wikipedia.org/wiki/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8#.EC.89.B4.EB.93.9C))
-* 마이크로콘트롤러, MCU : [마이크로콘트롤러@위키피디아](https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC)
-* 프로세싱: 프로그래밍 언어/IDE중 하나. (ref: (프로세싱@위키피디아](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4))
+* 마이크로콘트롤러, MCU : 마이크로프로세서와 입출력 모듈을 하나의 칩으로 만들어져 정해진 기능을 수행하는 컴퓨터로 보통 저클럭, ADC/DAC 내장된 소형의 제어용 칩을 지칭함. (ref: [마이크로콘트롤러@위키피디아](https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC))
+* 프로세싱: 프로그래밍 언어/IDE중 하나. (ref: [프로세싱@위키피디아](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)))
