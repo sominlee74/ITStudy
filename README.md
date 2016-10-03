@@ -8,47 +8,21 @@
 
 By Somin Lee (@sominlee74)
 
-## git
+## 프로그래밍 배우기
 
-### git 기본설정 : Basic Config for git 
+- [Python 학습자료](LearnProgramming/python_Learning.md)
 
-    git config --global user.name "[Your Name]"
-    git config --global user.email [Your Email]
-    git config --global color.ui true
-    git config --global core.autocrlf input
-    git config --global push.default simple
-    git config --global pull.rebase true
-    git config --global rerere.enabled true
-    git config --global alias.s "status -s"
-    git config --global alias.lg "log --oneline --decorate --all --graph"
-    printf '.idea/\n.DS_Store\n' > .gitignore_global
-    git config --global core.excludesfile ~/.gitignore_global
+## 프로그래밍/코딩 skill 업그레이드 하기
 
-    
+- [코딩 테스트/평가 서비스](Coding_Traning_Assessment.md)
 
-* References
-  * [Git 최초설정 (git-scm)](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)
-  * [Git 맞춤설정 (git-scm)](https://git-scm.com/book/ko/v2/Git%EB%A7%9E%EC%B6%A4-Git-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-  * [Mastering GitHub (Code School)](http://campus.codeschool.com/courses/mastering-github/level/1/section/1/video/1)
- 
-### git 설치 : Install git
-
-[For Ubuntu]
-* sudo apt-get update
-* sudo apt-get install git
-
-
-## Hardware Device Drivers
-
-### Realtek RTL8188CUS
-
-* Device ID: 0bda:8176
-* Category: 802.11n WLAN Adapter
-* Solution: https://github.com/pvaret/rtl8192cu-fixes
-* My case:
-   * Product: Product: IPTime NCUBIC
-   * O/S    :  Ubuntu 16.04 (LTS)
- 
 ## Arduino
 
-* [Arduino](Arduino.md)
+- [Arduino](Arduino.md)
+
+## Tip, Info, and Trouble Shooting
+- 제가 컴퓨터를 쓰면서 알게된 정보, 팁, 문제 해결책등을 기록해두기 위한 용도입니다. (예시: Linux에서의 특정 무선랜카드 인식 등)
+- [Git 설정](git.md)
+- [Trouble Shooting](TroubleShooting.md)
+	
+ 
