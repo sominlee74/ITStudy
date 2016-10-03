@@ -24,5 +24,6 @@ By Somin Lee (@sominlee74)
 - 제가 컴퓨터를 쓰면서 알게된 정보, 팁, 문제 해결책등을 기록해두기 위한 용도입니다. (예시: Linux에서의 특정 무선랜카드 인식 등)
 - [Git 설정](git.md)
 - [Trouble Shooting](TroubleShooting.md)
+- [서적 자료 소개](books.md)
 	
  
